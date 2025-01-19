@@ -23,16 +23,16 @@ El objetivo principal es desarrollar una aplicación que facilite:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tuusuario/literalura-challenge.git
+    git clone https://github.com/cristiandpto23/challenge-liter
     ```
 2. Navega al directorio del proyecto:
     ```bash
-    cd literalura-challenge
+    cd challenge-liter
     ```
 3. Compila y ejecuta el proyecto usando Maven:
     ```bash
     mvn clean install
-    mvn exec:java -Dexec.mainClass="com.tuusuario.Main"
+    mvn exec:java -Dexec.mainClass="com.cristiandpto23.Main"
     ```
 
 ## Uso
@@ -45,11 +45,5 @@ El objetivo principal es desarrollar una aplicación que facilite:
 
 ¡Las contribuciones son bienvenidas! Si deseas colaborar, realiza un fork del repositorio y envía un pull request con tus mejoras.
 
-## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
-## Contacto
-
-Para más información o preguntas, puedes contactarme a través de [tu correo] o en [LinkedIn](tu URL de LinkedIn).
 
